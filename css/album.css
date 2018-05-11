@@ -41,3 +41,14 @@ footer p {
 #navbarHeader {
   padding: 10px;
 }
+
+.btn-outline-secondary {
+  background-color: #ddd;
+}
+
+.clap {
+  background: none;
+  padding: 0;
+  border: none;
+  margin-left: 5px;
+}
